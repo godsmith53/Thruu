@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528636097787",
+    "project_id": "thruu-aadc2",
+    "storage_bucket": "thruu-aadc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528636097787:android:40862df4a4526bb2682c5e",
+        "android_client_info": {
+          "package_name": "com.charlizard.thruu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528636097787-5gllv41e4bge2thmbh9t9kb169vgqv5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa6KALaje9EQePLgOtW9yMaj2VstbiGcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528636097787-5gllv41e4bge2thmbh9t9kb169vgqv5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
